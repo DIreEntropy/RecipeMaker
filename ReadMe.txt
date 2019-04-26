@@ -1,4 +1,3 @@
-I just felt like starting a github repo so this is what you all shall get for now.
 Feel free to critic', use, modify, whatever you wish with the files. Just ensure
 that when you do something with it, you do NOT do something I WOULDN'T do.
 And if for some odd reason you do, name it after me. Thanks for reading. Hope you
